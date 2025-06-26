@@ -1,0 +1,7 @@
+bottle
+# eventlet
+# python-socketio
+# reportlab
+jinja2
+# pytz
+# filelock

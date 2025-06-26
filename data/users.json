@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Lucas Boa",
+        "email": "lucasxboaventura18@gmail.co",
+        "birthdate": "2000-03-30",
+        "activities": [
+            3,
+            4
+        ]
+    }
+]

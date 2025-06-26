@@ -1,0 +1,122 @@
+[
+    {
+        "id": 2,
+        "name": "Cozinhar para a família",
+        "description": "Fazer um churrasco para a família no domingo",
+        "done": false
+    },
+    {
+        "id": 3,
+        "name": "Jogar Futebol",
+        "description": "Jogar com a galera hehe",
+        "done": true
+    },
+    {
+        "id": 5,
+        "name": "Comprar presente para minha mãe",
+        "description": "Presente para a minha mãe de aniversário. Ideias: bolsa, brinco",
+        "done": true
+    },
+    {
+        "id": 6,
+        "name": "Estudar para concursos",
+        "description": "Estudar para os concursos: TCU, RFB, SEFAZ-DF",
+        "done": false
+    },
+    {
+        "id": 7,
+        "name": "Ler um livro",
+        "description": "Ler 'Dom Casmurro' de Machado de Assis",
+        "done": false
+    },
+    {
+        "id": 8,
+        "name": "Fazer caminhada",
+        "description": "Caminhada matinal no parque",
+        "done": true
+    },
+    {
+        "id": 9,
+        "name": "Organizar o quarto",
+        "description": "Limpar e organizar o guarda-roupas",
+        "done": false
+    },
+    {
+        "id": 10,
+        "name": "Aprender Python",
+        "description": "Fazer um curso introdutório de Python",
+        "done": true
+    },
+    {
+        "id": 11,
+        "name": "Assistir a um filme",
+        "description": "Ver um clássico do cinema no fim de semana",
+        "done": false
+    },
+    {
+        "id": 12,
+        "name": "Ir ao supermercado",
+        "description": "Fazer compras do mês",
+        "done": true
+    },
+    {
+        "id": 13,
+        "name": "Fazer backup do computador",
+        "description": "Salvar arquivos importantes em um HD externo",
+        "done": false
+    },
+    {
+        "id": 14,
+        "name": "Visitar os avós",
+        "description": "Levar um bolo e passar a tarde",
+        "done": true
+    },
+    {
+        "id": 15,
+        "name": "Estudar orientação a objetos",
+        "description": "Revisar conceitos de encapsulamento e herança",
+        "done": false
+    },
+    {
+        "id": 16,
+        "name": "Praticar violão",
+        "description": "Treinar novas músicas e acordes",
+        "done": true
+    },
+    {
+        "id": 17,
+        "name": "Meditar",
+        "description": "Fazer 10 minutos de meditação diária",
+        "done": false
+    },
+    {
+        "id": 18,
+        "name": "Fazer um bolo",
+        "description": "Tentar uma receita nova de bolo de cenoura",
+        "done": true
+    },
+    {
+        "id": 19,
+        "name": "Planejar viagem",
+        "description": "Pesquisar destinos e preços para as férias",
+        "done": false
+    },
+    {
+        "id": 20,
+        "name": "Pagar boletos",
+        "description": "Contas do mês: luz, água, internet",
+        "done": true
+    },
+    {
+        "id": 21,
+        "name": "Escrever no diário",
+        "description": "Refletir sobre a semana",
+        "done": false
+    },
+    {
+        "id": 22,
+        "name": "Limpar a geladeira",
+        "description": "Jogar fora itens vencidos e organizar tudo",
+        "done": true
+    }
+]
